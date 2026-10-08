@@ -1546,3 +1546,4 @@ GOLD LAYER (aggregated analytics tables)
 
 *Dataset links validated live from https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page on June 3, 2026*
 *Built with: Azure Data Factory · Azure Databricks · Delta Lake · Azure Blob Storage · PySpark · Logic Apps*
+*Project owner: Pallapu Gopi Chandu*

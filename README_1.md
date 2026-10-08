@@ -271,7 +271,7 @@ azure-nyc-tlc-data-pipeline/
 
 ---
 
-## Author
+## Project Owner
 
 **Pallapu Gopi Chandu**
 [LinkedIn](https://www.linkedin.com/in/pallapu-gopi-chandu-0ba8b525a/) | [GitHub](https://github.com/pallapugopichandu2-bit)
